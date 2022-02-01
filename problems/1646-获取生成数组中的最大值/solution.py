@@ -1,6 +1,6 @@
 # 1646. 获取生成数组中的最大值
 # URL：https://leetcode-cn.com/problems/get-maximum-in-generated-array/
-# 执行结果：通过
+# 难度：简单
 # 执行用时：36 ms, 在所有 Python3 提交中击败了 37.47% 的用户
 # 内存消耗：14.9 MB, 在所有 Python3 提交中击败了 69.18% 的用户
 
