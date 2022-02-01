@@ -1,6 +1,7 @@
 # 648. 单词替换
 # URL：https://leetcode-cn.com/problems/replace-words/
 # 难度：中等
+# 关键词：前缀树、字典树
 # 执行用时：52 ms, 在所有 Python3 提交中击败了 93.52% 的用户
 # 内存消耗：28.8 MB, 在所有 Python3 提交中击败了 35.23% 的用户
 

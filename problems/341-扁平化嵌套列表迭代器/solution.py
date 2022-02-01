@@ -1,6 +1,7 @@
 # 341. 扁平化嵌套列表迭代器
 # URL：https://leetcode-cn.com/problems/flatten-nested-list-iterator/
 # 难度：中等
+# 关键词：递归、扁平化、迭代器
 # 执行用时：56 ms, 在所有 Python3 提交中击败了 87.02% 的用户
 # 内存消耗：18.6 MB, 在所有 Python3 提交中击败了 5.44% 的用户
 
