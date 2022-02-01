@@ -1,5 +1,5 @@
 # 208. 实现 Trie (前缀树)
-# URL：https://leetcode-cn.com/problems/implement-trie-prefix-tree/submissions/
+# URL：https://leetcode-cn.com/problems/implement-trie-prefix-tree/
 # 难度：中等
 # 关键词：前缀树、字典树
 # 执行用时：88 ms, 在所有 Python3 提交中击败了 99.60% 的用户
