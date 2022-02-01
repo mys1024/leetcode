@@ -1,5 +1,5 @@
 # 1763. 最长的美好子字符串
-# URL: https://leetcode-cn.com/problems/longest-nice-substring/
+# URL：https://leetcode-cn.com/problems/longest-nice-substring/
 # 执行结果：通过
 # 执行用时：152 ms, 在所有 Python3 提交中击败了 20.67% 的用户
 # 内存消耗：15 MB, 在所有 Python3 提交中击败了 71.63% 的用户
