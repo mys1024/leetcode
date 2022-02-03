@@ -1,6 +1,7 @@
 # 190. 颠倒二进制位
 # URL：https://leetcode-cn.com/problems/reverse-bits/
 # 难度：简单
+# 关键词：位操作
 # 执行用时：32 ms, 在所有 Python3 提交中击败了 78.04% 的用户
 # 内存消耗：14.6 MB, 在所有 Python3 提交中击败了 99.72% 的用户
 
