@@ -1,69 +1,55 @@
 # 6002. 设计位集
 # URL：https://leetcode-cn.com/problems/design-bitset/
 # 难度：中等
-# 关键词：位运算
-# 执行用时：4700 ms, 在所有 Python3 提交中击败了 33.33% 的用户
-# 内存消耗：44.5 MB, 在所有 Python3 提交中击败了 100.00% 的用户
+# 关键词：位运算、懒操作
+# 执行用时：764 ms, 在所有 Python3 提交中击败了 66.67% 的用户
+# 内存消耗：44.6 MB, 在所有 Python3 提交中击败了 100.00% 的用户
 
 class Bitset:
   def __init__(self, size: int):
     self.size = size
-    self.value = 0
-    self.positiveCount = 0
-    self.flipFlag = False
+    self._value = 0        # 存储二进制数
+    self._flipped = False  # 是否为翻转状态
+    self._count = 0        # 1 的个数
+
+  def _realFix(self, idx: int) -> None:
+    mask = 1 << idx
+    if not (self._value & mask):
+      self._value |= mask
+      self._count += 1
+
+  def _realUnfix(self, idx: int) -> None:
+    mask = 1 << idx
+    if self._value & mask:
+      self._value ^= mask
+      self._count -= 1
+
+  def _realFlip(self) -> None:
+    self._flipped = False
+    self._value ^= (2 ** self.size) - 1
+    self._count = self.size - self._count
 
   def fix(self, idx: int) -> None:
-    mask = 1 << idx
-    if self.flipFlag:
-      if self.value & mask:
-        self.value ^= 1 << idx
-        self.positiveCount -= 1
-    else:
-      if not (self.value & mask):
-        self.value |= mask
-        self.positiveCount += 1
+    self._realUnfix(idx) if self._flipped else self._realFix(idx)
 
   def unfix(self, idx: int) -> None:
-    mask = 1 << idx
-    if self.flipFlag:
-      if not (self.value & mask):
-        self.value |= mask
-        self.positiveCount += 1
-    else:
-      if self.value & mask:
-        self.value ^= 1 << idx
-        self.positiveCount -= 1
-
-  def realFlip(self) -> None:
-    self.flipFlag = False
-    self.value ^= (2 ** self.size) - 1
-    self.positiveCount = self.size - self.positiveCount
+    self._realFix(idx) if self._flipped else self._realUnfix(idx)
 
   def flip(self) -> None:
-    self.flipFlag = not self.flipFlag
+    self._flipped = not self._flipped
 
   def all(self) -> bool:
-    if self.flipFlag:
-      return self.value == 0
-    else:
-      return self.value == (2 ** self.size) - 1
+    return (self._count == 0) if self._flipped else (self._count == self.size)
 
   def one(self) -> bool:
-    if self.flipFlag:
-      return self.value != (2 ** self.size) - 1
-    else:
-      return self.value > 0
+    return (self._count != self.size) if self._flipped else (self._count > 0)
 
   def count(self) -> int:
-    if self.flipFlag:
-      return self.size - self.positiveCount
-    else:
-      return self.positiveCount
+    return (self.size - self._count) if self._flipped else (self._count)
 
   def toString(self) -> str:
-    if self.flipFlag:
-      self.realFlip()
-    s = bin(self.value)[2:]
-    s = '0' * (self.size - len(s)) + s
-    s = s[::-1]
+    if self._flipped:
+      self._realFlip()
+    s = bin(self._value)[:1:-1]
+    s += '0' * (self.size - len(s))
     return s
