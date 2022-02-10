@@ -92,3 +92,4 @@
 - [5986. 设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time/)
 - [6000. 对奇偶下标分别排序](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently/)
 - [6001. 重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number/)
+- [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
