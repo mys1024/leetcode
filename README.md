@@ -24,9 +24,11 @@
 ### 二叉树
 
 - [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
+- [2096. 从二叉树一个节点到另一个节点每一步的方向](https://leetcode-cn.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
 
 ### 图
 
+- [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
 - [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 - [2101. 引爆最多的炸弹](https://leetcode-cn.com/problems/detonate-the-maximum-bombs/)
 
@@ -79,6 +81,7 @@
 
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [884. 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)
+- [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/)
 - [1431. 拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)
 - [1646. 获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/)
 - [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
