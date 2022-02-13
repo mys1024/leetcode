@@ -87,6 +87,7 @@
 
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [884. 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)
+- [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/)
 - [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 - [1295. 统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/)
 - [1324. 竖直打印单词](https://leetcode-cn.com/problems/print-words-vertically/)
