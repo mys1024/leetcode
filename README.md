@@ -86,6 +86,7 @@
 - [1646. 获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/)
 - [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 - [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)
+- [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 - [1985. 找出数组中的第 K 大整数](https://leetcode-cn.com/problems/find-the-kth-largest-integer-in-the-array/)
 - [2000. 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/)
 - [2119. 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal/)
@@ -95,4 +96,4 @@
 - [5986. 设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time/)
 - [6000. 对奇偶下标分别排序](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently/)
 - [6001. 重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number/)
-- [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
+- [6004. 得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero/)
