@@ -59,9 +59,10 @@
 - [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 - [2155. 分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/)
 
-### 单调栈
+### 栈
 
 - [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)
+- [735. 行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/)
 
 ### 贪心
 
