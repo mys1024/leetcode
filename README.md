@@ -71,6 +71,7 @@
 ### 位运算
 
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
+- [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 - [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
 - [6002. 设计位集](https://leetcode-cn.com/problems/design-bitset/)
 
