@@ -80,6 +80,7 @@
 - [883. 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)
 - [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/)
 - [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/)
+- [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 
 ### 其他
 
