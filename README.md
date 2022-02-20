@@ -77,11 +77,11 @@
 
 ### 数学
 
+- [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 - [507. 完美数](https://leetcode-cn.com/problems/perfect-number/)
 - [883. 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)
 - [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/)
 - [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/)
-- [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 
 ### 其他
 
@@ -114,6 +114,7 @@
 - [5985. 根据给定数字划分数组](https://leetcode-cn.com/problems/partition-array-according-to-given-pivot/)
 - [5986. 设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time/)
 - [5996. 统计数组中相等且可以被整除的数对](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array/)
+- [5997. 找到和为给定整数的三个连续整数](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)
 - [6000. 对奇偶下标分别排序](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently/)
 - [6001. 重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number/)
 - [6004. 得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero/)
