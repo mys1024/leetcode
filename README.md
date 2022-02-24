@@ -31,6 +31,7 @@
 
 - [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
 - [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
+- [1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/)
 - [2101. 引爆最多的炸弹](https://leetcode-cn.com/problems/detonate-the-maximum-bombs/)
 
 ### 堆
