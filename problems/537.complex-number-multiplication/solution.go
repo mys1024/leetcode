@@ -1,5 +1,5 @@
 // 537. 复数乘法
-// URL：https://leetcode-cn.com/problems/complex-number-multiplication/submissions/
+// URL：https://leetcode-cn.com/problems/complex-number-multiplication/
 // 难度：中等
 // 关键词：数学、字符串
 // 执行用时：0 ms, 在所有 Go 提交中击败了 100.00% 的用户
