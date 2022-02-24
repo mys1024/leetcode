@@ -112,6 +112,7 @@
 - [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 - [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)
 - [1791. 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/)
+- [1812. 判断国际象棋棋盘中一个格子的颜色](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/)
 - [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 - [1985. 找出数组中的第 K 大整数](https://leetcode-cn.com/problems/find-the-kth-largest-integer-in-the-array/)
 - [2000. 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/)
