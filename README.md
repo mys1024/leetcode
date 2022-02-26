@@ -117,6 +117,7 @@
 - [1984. 学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 - [1985. 找出数组中的第 K 大整数](https://leetcode-cn.com/problems/find-the-kth-largest-integer-in-the-array/)
 - [2000. 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/)
+- [2016. 增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/)
 - [2119. 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal/)
 - [2154. 将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two/)
 - [5984. 拆分数位后四位数字的最小和](https://leetcode-cn.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
