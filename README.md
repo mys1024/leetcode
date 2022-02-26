@@ -101,6 +101,7 @@
 - [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 - [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)
 - [537. 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)
+- [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
 - [884. 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)
 - [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)
 - [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/)
