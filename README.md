@@ -43,6 +43,10 @@
 
 - [990. 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)
 
+### 字符串
+
+- [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+
 ### 数组
 
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
