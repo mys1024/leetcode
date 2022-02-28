@@ -123,6 +123,7 @@
 - [2119. 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal/)
 - [2154. 将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two/)
 - [2185. 统计包含给定前缀的字符串](https://leetcode-cn.com/problems/counting-words-with-a-given-prefix/)
+- [2186. 使两字符串互为字母异位词的最少步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)
 - [5984. 拆分数位后四位数字的最小和](https://leetcode-cn.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
 - [5985. 根据给定数字划分数组](https://leetcode-cn.com/problems/partition-array-according-to-given-pivot/)
 - [5986. 设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time/)
