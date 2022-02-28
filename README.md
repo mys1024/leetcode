@@ -46,6 +46,9 @@
 ### 字符串
 
 - [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+- [1763. 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/)
+- [1897. 重新分配字符使所有字符串都相等](https://leetcode-cn.com/problems/redistribute-characters-to-make-all-strings-equal/)
+- [2156. 查找给定哈希值的子串](https://leetcode-cn.com/problems/find-substring-with-given-hash-value/)
 
 ### 数组
 
@@ -95,9 +98,6 @@
 
 ### 其他
 
-- [1763. 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/)
-- [1897. 重新分配字符使所有字符串都相等](https://leetcode-cn.com/problems/redistribute-characters-to-make-all-strings-equal/)
-- [2156. 查找给定哈希值的子串](https://leetcode-cn.com/problems/find-substring-with-given-hash-value/)
 - [2187. 完成旅途的最少时间](https://leetcode-cn.com/problems/minimum-time-to-complete-trips/)
 - [6005. 使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating/)
 
