@@ -94,6 +94,7 @@
 - [883. 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)
 - [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/)
 - [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/)
+- [1922. 统计好数字的数目](https://leetcode-cn.com/problems/count-good-numbers/)
 - [5998. 拆分成最多数目的偶整数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers/)
 
 ### 其他
