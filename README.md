@@ -97,6 +97,7 @@
 
 - [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 - [258. 各位相加](https://leetcode-cn.com/problems/add-digits/)
+- [504. 七进制数](https://leetcode-cn.com/problems/base-7/)
 - [507. 完美数](https://leetcode-cn.com/problems/perfect-number/)
 - [883. 三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/)
 - [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/)
