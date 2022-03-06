@@ -141,3 +141,4 @@
 - [6001. 重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number/)
 - [6004. 得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero/)
 - [6012. 统计各位数字之和为偶数的整数个数](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/)
+- [6024. 数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array/)
