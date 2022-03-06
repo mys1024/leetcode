@@ -102,6 +102,7 @@
 - [1922. 统计好数字的数目](https://leetcode-cn.com/problems/count-good-numbers/)
 - [5217. 将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/)
 - [5998. 拆分成最多数目的偶整数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers/)
+- [6019. 替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array/)
 
 ### 其他
 
