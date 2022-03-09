@@ -31,6 +31,7 @@
 
 ### 图
 
+- [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 - [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
 - [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
 - [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
