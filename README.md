@@ -51,6 +51,7 @@
 ### 字符串
 
 - [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
+- [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 - [521. 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
 - [1763. 最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring/)
 - [1897. 重新分配字符使所有字符串都相等](https://leetcode-cn.com/problems/redistribute-characters-to-make-all-strings-equal/)
