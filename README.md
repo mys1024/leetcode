@@ -61,6 +61,7 @@
 ### 数组
 
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
+- [526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
 - [798. 得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
 - [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)
