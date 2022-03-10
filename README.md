@@ -103,6 +103,7 @@
 
 ### 数学
 
+- [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 - [46. 全排列](https://leetcode-cn.com/problems/permutations/)
 - [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 - [258. 各位相加](https://leetcode-cn.com/problems/add-digits/)
