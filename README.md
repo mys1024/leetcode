@@ -133,6 +133,7 @@
 - [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)
 - [537. 复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/)
 - [589. N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)
+- [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
 - [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
 - [884. 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)
 - [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)
