@@ -15,6 +15,7 @@
 - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 - [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+- [2049. 统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/)
 - [2104. 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/)
 
 ### 链表
