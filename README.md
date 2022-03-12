@@ -102,6 +102,7 @@
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 - [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+- [393. UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/)
 - [2166. 设计位集](https://leetcode-cn.com/problems/design-bitset/)
 
 ### 数学
