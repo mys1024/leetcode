@@ -28,7 +28,7 @@
 - [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 - [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 - [2096. 从二叉树一个节点到另一个节点每一步的方向](https://leetcode-cn.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)
-- [6018. 根据描述创建二叉树](https://leetcode-cn.com/problems/create-binary-tree-from-descriptions/)
+- [2196. 根据描述创建二叉树](https://leetcode-cn.com/problems/create-binary-tree-from-descriptions/)
 
 ### 图
 
@@ -40,7 +40,7 @@
 - [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
 - [1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/)
 - [2101. 引爆最多的炸弹](https://leetcode-cn.com/problems/detonate-the-maximum-bombs/)
-- [5300. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)
+- [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)
 
 ### 堆
 
@@ -65,13 +65,13 @@
 - [526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
 - [798. 得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
-- [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)
 - [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
+- [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)
 - [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
 - [2055. 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/)
 - [2100. 适合打劫银行的日子](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/)
-- [6006. 拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans/)
-- [6017. 向数组中追加 K 个整数](https://leetcode-cn.com/problems/append-k-integers-with-minimal-sum/)
+- [2171. 拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans/)
+- [2195. 向数组中追加 K 个整数](https://leetcode-cn.com/problems/append-k-integers-with-minimal-sum/)
 
 ### 字典树
 
@@ -102,12 +102,12 @@
 - [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)
 - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
 - [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
-- [6002. 设计位集](https://leetcode-cn.com/problems/design-bitset/)
+- [2166. 设计位集](https://leetcode-cn.com/problems/design-bitset/)
 
 ### 数学
 
-- [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 - [46. 全排列](https://leetcode-cn.com/problems/permutations/)
+- [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 - [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
 - [258. 各位相加](https://leetcode-cn.com/problems/add-digits/)
 - [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
@@ -117,14 +117,14 @@
 - [1288. 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals/)
 - [1447. 最简分数](https://leetcode-cn.com/problems/simplified-fractions/)
 - [1922. 统计好数字的数目](https://leetcode-cn.com/problems/count-good-numbers/)
-- [5217. 将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/)
-- [5998. 拆分成最多数目的偶整数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers/)
-- [6019. 替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array/)
+- [2178. 拆分成最多数目的偶整数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers/)
+- [2191. 将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/)
+- [2197. 替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array/)
 
 ### 其他
 
+- [2170. 使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating/)
 - [2187. 完成旅途的最少时间](https://leetcode-cn.com/problems/minimum-time-to-complete-trips/)
-- [6005. 使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating/)
 
 ### 简单题
 
@@ -154,16 +154,16 @@
 - [2016. 增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/)
 - [2119. 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal/)
 - [2154. 将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two/)
+- [2160. 拆分数位后四位数字的最小和](https://leetcode-cn.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
+- [2161. 根据给定数字划分数组](https://leetcode-cn.com/problems/partition-array-according-to-given-pivot/)
+- [2162. 设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time/)
+- [2164. 对奇偶下标分别排序](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently/)
+- [2165. 重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number/)
+- [2169. 得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero/)
+- [2176. 统计数组中相等且可以被整除的数对](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array/)
+- [2177. 找到和为给定整数的三个连续整数](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)
+- [2180. 统计各位数字之和为偶数的整数个数](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/)
 - [2185. 统计包含给定前缀的字符串](https://leetcode-cn.com/problems/counting-words-with-a-given-prefix/)
 - [2186. 使两字符串互为字母异位词的最少步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)
-- [5984. 拆分数位后四位数字的最小和](https://leetcode-cn.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
-- [5985. 根据给定数字划分数组](https://leetcode-cn.com/problems/partition-array-according-to-given-pivot/)
-- [5986. 设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time/)
-- [5996. 统计数组中相等且可以被整除的数对](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array/)
-- [5997. 找到和为给定整数的三个连续整数](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)
-- [6000. 对奇偶下标分别排序](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently/)
-- [6001. 重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number/)
-- [6004. 得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero/)
-- [6012. 统计各位数字之和为偶数的整数个数](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum/)
-- [6016. Excel 表中某个范围内的单元格](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet/)
-- [6024. 数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array/)
+- [2190. 数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array/)
+- [2194. Excel 表中某个范围内的单元格](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet/)
