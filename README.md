@@ -52,6 +52,7 @@
 
 ### 字符串
 
+- [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 - [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)
 - [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 - [521. 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
