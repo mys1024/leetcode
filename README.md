@@ -70,6 +70,7 @@
 - [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 - [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)
 - [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
+- [2044. 统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/)
 - [2055. 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/)
 - [2100. 适合打劫银行的日子](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/)
 - [2171. 拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans/)
