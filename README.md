@@ -39,6 +39,7 @@
 - [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 - [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
 - [1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/)
+- [2039. 网络空闲的时刻](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/)
 - [2101. 引爆最多的炸弹](https://leetcode-cn.com/problems/detonate-the-maximum-bombs/)
 - [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)
 
