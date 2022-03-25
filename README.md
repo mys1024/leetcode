@@ -117,6 +117,7 @@
 - [46. 全排列](https://leetcode-cn.com/problems/permutations/)
 - [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 - [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
+- [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
 - [258. 各位相加](https://leetcode-cn.com/problems/add-digits/)
 - [405. 数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/)
 - [504. 七进制数](https://leetcode-cn.com/problems/base-7/)
