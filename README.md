@@ -147,6 +147,7 @@
 - [606. 根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/)
 - [661. 图片平滑器](https://leetcode-cn.com/problems/image-smoother/)
 - [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
+- [693. 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)
 - [720. 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
 - [884. 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)
 - [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)
