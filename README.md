@@ -166,6 +166,7 @@
 - [1985. 找出数组中的第 K 大整数](https://leetcode-cn.com/problems/find-the-kth-largest-integer-in-the-array/)
 - [2000. 反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word/)
 - [2016. 增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/)
+- [2028. 找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations/)
 - [2043. 简易银行系统](https://leetcode-cn.com/problems/simple-bank-system/)
 - [2119. 反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal/)
 - [2154. 将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two/)
