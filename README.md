@@ -67,6 +67,7 @@
 
 - [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 - [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)
+- [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
 - [526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
 - [798. 得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
