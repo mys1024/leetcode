@@ -151,6 +151,7 @@
 - [682. 棒球比赛](https://leetcode-cn.com/problems/baseball-game/)
 - [693. 交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/)
 - [720. 词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)
+- [728. 自除数](https://leetcode-cn.com/problems/self-dividing-numbers/)
 - [884. 两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)
 - [917. 仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)
 - [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/)
