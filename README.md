@@ -74,6 +74,7 @@
 - [798. 得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
 - [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 - [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)
+- [1217. 玩筹码](https://leetcode.cn/problems/minimum-cost-to-move-chips-to-the-same-position/)
 - [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)
 - [2044. 统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/)
 - [2055. 蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles/)
