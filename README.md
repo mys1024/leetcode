@@ -194,3 +194,4 @@
 - [2186. 使两字符串互为字母异位词的最少步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)
 - [2190. 数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array/)
 - [2194. Excel 表中某个范围内的单元格](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet/)
+- [2206. 将数组划分成相等数对](https://leetcode.cn/problems/divide-array-into-equal-pairs/)
