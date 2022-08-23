@@ -144,6 +144,10 @@
 - [2191. 将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/)
 - [2197. 替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array/)
 
+### 脑筋急转弯
+
+- [1460. 通过翻转子数组使两个数组相等](https://leetcode.cn/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+
 ### 其他
 
 - [2170. 使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating/)
