@@ -4,7 +4,7 @@
 
 主要解题语言为 **Golang** 和 **Python3** 。
 
-## 知识点索引
+## 分类
 
 ### 动态规划
 
@@ -99,6 +99,7 @@
 - [974. 和可被 K 整除的子数组](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k/)
 - [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 - [2155. 分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/)
+- [2357. 使数组中所有元素都等于零](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)
 
 ### 栈
 
