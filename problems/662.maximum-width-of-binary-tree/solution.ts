@@ -2,8 +2,8 @@
 // URL：https://leetcode.cn/problems/maximum-width-of-binary-tree/
 // 难度：中等
 // 关键词：二叉树、广度优先搜索、层序遍历
-// 执行用时：96 ms, 在所有 Go 提交中击败了 11.11% 的用户
-// 内存消耗：50.4 MB, 在所有 Go 提交中击败了 7.41% 的用户
+// 执行用时：96 ms, 在所有 TypeScript 提交中击败了 11.11% 的用户
+// 内存消耗：50.4 MB, 在所有 TypeScript 提交中击败了 7.41% 的用户
 
 class TreeNode {
   val: number
