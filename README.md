@@ -184,6 +184,7 @@
 - [1464. 数组中两元素的最大乘积](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)
 - [1646. 获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array/)
 - [1470. 重新排列数组](https://leetcode.cn/problems/shuffle-the-array/)
+- [1470. 重新排列数组](https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/)
 - [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 - [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)
 - [1791. 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/)
