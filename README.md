@@ -77,6 +77,7 @@
 - [526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)
 - [540. 有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
 - [622. 设计循环队列](https://leetcode.cn/problems/design-circular-queue/)
+- [646. 最长数对链](https://leetcode.cn/problems/maximum-length-of-pair-chain/)
 - [798. 得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
 - [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/)
 - [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/)
