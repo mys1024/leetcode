@@ -2,7 +2,7 @@
 // URL: https://leetcode.cn/problems/calculate-amount-paid-in-taxes/
 // 难度: 简单
 // 关键词: 模拟
-// 执行用时: 64ms, 在所有 TypeScript 提交中击败了 90.00% 的用户
+// 执行用时: 64 ms, 在所有 TypeScript 提交中击败了 90.00% 的用户
 // 内存消耗: 44.2 MB, 在所有 TypeScript 提交中击败了 30.00% 的用户
 
 function calculateTax(brackets: number[][], income: number): number {
