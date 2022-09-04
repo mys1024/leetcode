@@ -44,6 +44,7 @@
 - [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)
 - [2359. 找到离给定两个节点最近的节点](https://leetcode.cn/problems/find-closest-node-to-given-two-nodes/)
 - [2360. 图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/)
+- [2368. 受限条件下可到达节点的数目](https://leetcode.cn/problems/reachable-nodes-with-restrictions/)
 
 ### 字符串
 
