@@ -1,10 +1,10 @@
-# mys1024/leetcode
+# leetcode
 
 我的 **[Leetcode](https://leetcode-cn.com/)** 解题记录。
 
-主要解题语言为 **Golang** 和 **Python3** 。
+主要解题语言: **Golang**, **Python3**, **TypeScript**
 
-## 分类
+## 已解
 
 ### 动态规划
 
@@ -17,10 +17,6 @@
 - [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 - [2049. 统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/)
 - [2104. 子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges/)
-
-### 链表
-
-- [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ### 二叉树
 
@@ -48,14 +44,6 @@
 - [2192. 有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)
 - [2359. 找到离给定两个节点最近的节点](https://leetcode.cn/problems/find-closest-node-to-given-two-nodes/)
 - [2360. 图中的最长环](https://leetcode.cn/problems/longest-cycle-in-a-graph/)
-
-### 堆
-
-- [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
-
-### 并查集
-
-- [990. 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)
 
 ### 字符串
 
@@ -149,6 +137,18 @@
 - [2178. 拆分成最多数目的偶整数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers/)
 - [2191. 将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers/)
 - [2197. 替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array/)
+
+### 堆
+
+- [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)
+
+### 并查集
+
+- [990. 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/)
+
+### 链表
+
+- [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 
 ### 脑筋急转弯
 
