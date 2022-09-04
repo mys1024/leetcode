@@ -2,7 +2,7 @@
 // URL: https://leetcode.cn/problems/reachable-nodes-with-restrictions/
 // 难度: 中等
 // 关键词: 图 深度优先搜索
-// 执行用时: 560ms, 在所有 TypeScript 提交中击败了 30.23% 的用户
+// 执行用时: 560 ms, 在所有 TypeScript 提交中击败了 30.23% 的用户
 // 内存消耗: 111.4 MB, 在所有 TypeScript 提交中击败了 11.63% 的用户
 
 function reachableNodes(n: number, edges: number[][], _restricted: number[]): number {
