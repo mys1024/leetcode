@@ -218,4 +218,5 @@
 - [2194. Excel 表中某个范围内的单元格](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet/)
 - [2206. 将数组划分成相等数对](https://leetcode.cn/problems/divide-array-into-equal-pairs/)
 - [2303. 计算应缴税款总额](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/)
+- [2367. 算术三元组的数目](https://leetcode.cn/problems/number-of-arithmetic-triplets/)
 - [2373. 矩阵中的局部最大值](https://leetcode.cn/problems/largest-local-values-in-a-matrix/)
