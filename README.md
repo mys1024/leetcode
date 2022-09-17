@@ -199,6 +199,7 @@
 - [1598. 文件夹操作日志搜集器](https://leetcode.cn/problems/crawler-log-folder/)
 - [1608. 特殊数组的特征值](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - [1619. 删除某些元素后的数组均值](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)
+- [1624. 两个相同字符之间的最长子字符串](https://leetcode.cn/problems/largest-substring-between-two-equal-characters/)
 - [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 - [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)
 - [1791. 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/)
