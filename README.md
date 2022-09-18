@@ -37,6 +37,7 @@
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 - [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)
 - [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
+- [827. 最大人工岛](https://leetcode.cn/problems/making-a-large-island/)
 - [1020. 飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves/)
 - [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/)
 - [1203. 项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/)
