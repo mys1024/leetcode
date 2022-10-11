@@ -204,6 +204,7 @@
 - [1636. 按照频率将数组升序排序](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)
 - [1725. 可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 - [1748. 唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements/)
+- [1790. 仅执行一次字符串交换能否使两个字符串相等](https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/)
 - [1791. 找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph/)
 - [1812. 判断国际象棋棋盘中一个格子的颜色](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square/)
 - [1952. 三除数](https://leetcode-cn.com/problems/three-divisors/)
