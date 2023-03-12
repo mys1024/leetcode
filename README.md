@@ -86,6 +86,7 @@
 - [2200. 找出数组中的所有 K 近邻下标](https://leetcode.cn/problems/find-all-k-distant-indices-in-an-array/)
 - [2201. 统计可以提取的工件](https://leetcode.cn/problems/count-artifacts-that-can-be-extracted/)
 - [2208. 将数组和减半的最少操作次数](https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/)
+- [2379. 得到 K 个黑块的最少涂色次数](https://leetcode.cn/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
 
 ### 字典树
 
