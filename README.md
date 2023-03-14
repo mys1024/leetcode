@@ -236,3 +236,4 @@
 - [2303. 计算应缴税款总额](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/)
 - [2367. 算术三元组的数目](https://leetcode.cn/problems/number-of-arithmetic-triplets/)
 - [2373. 矩阵中的局部最大值](https://leetcode.cn/problems/largest-local-values-in-a-matrix/)
+- [2383. 赢得比赛需要的最少训练时长](https://leetcode.cn/problems/minimum-hours-of-training-to-win-a-competition/)
